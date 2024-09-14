@@ -9,7 +9,8 @@ Ces instructions permettent d'exécuter une copie du projet en local sur votre p
 ### Pré-requis
 
 Pour exécuter en local le projet Open Transport, vous devez au préalable installer :
-
+- TransposeAI
+- Convergent System Tools
 ```
 A définir
 
