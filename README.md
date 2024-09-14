@@ -4,11 +4,11 @@ Application web pour covoiturage.
 
 ## Getting Started
 
-Ces instructions permettent d'executer une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
+Ces instructions permettent d'exécuter une copie du projet en local sur votre poste de travail pour le développement et les tests. Référez-vous à la section "Déploiement" pour les étapes à suivre pour déployer le projet en production.
 
 ### Pré-requis
 
-Pour executer en local le projet Open Transport, vous devez au préalable installer :
+Pour exécuter en local le projet Open Transport, vous devez au préalable installer :
 
 ```
 A définir
@@ -26,14 +26,14 @@ A définir
 
 
 
-## Executer les tests
+## Exécuter les tests
 
 ```
 A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Déploiement
 
 Voici les étapes à suivre pour déployer en production :
 
@@ -58,4 +58,4 @@ Merci de lire les fichiers :
 
 ## License
 
-Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+Ce projet est sous la licence GNU GPL V3 : voir le fichier [LICENSE](LICENSE) pour plus de détails
